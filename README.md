@@ -21,3 +21,4 @@ That's basically it. Run `vidsqueeze.sh` from anywhere in your filesystem to com
 ## TODO
 - [ ] Ignore non-video files
 - [ ] Pass `vidspath` on command line
+
